@@ -5,12 +5,18 @@ var cors = require('cors')
 
 app.use(cors())
 const course = require('./data/course.json');
+const courseDetails= require('./data/courseDetails.json');
+
 app.get('/', (req, res) =>{
     res.send('Server api is running');
 });
 
 app.get('/course', (req, res) =>{
     res.send(course);
+});
+
+app.get('/courseDetails', (req, res) =>{
+    res.send(courseDetails);
 });
 
 app.listen(port, ()=>{

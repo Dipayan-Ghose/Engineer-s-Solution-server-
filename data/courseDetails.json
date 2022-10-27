@@ -5,8 +5,8 @@
         "rating": { "number": 3.5 },
         "total_enrolled": 308,
         "title": "Data Structure",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+        "details": "A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this online course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures."
     },
 
     {
@@ -14,8 +14,8 @@
         "rating": { "number": 4.5 },
         "total_enrolled": 708,
         "title": "Algorithms",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://www.investopedia.com/thmb/s56ubR5UguDpmw4xitrCznhYbp4=/735x0/algorithm-8507b849b8ee48e5887fda56916dd037.png",
+        "details": "Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth.  This specialization is an introduction to algorithms for learners with at least a little programming experience.  The specialization is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details.  After completing this specialization, you will be well-positioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists."
     },
 
     {
@@ -23,8 +23,8 @@
         "rating": { "number": 3 },
         "total_enrolled": 400,
         "title": "Micro Controllers",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcYA-fR7N-oMAj5wxeH9du6rML9aEQQgClg&usqp=CAU",
+        "details": "In this course, learn about Microcontroller hardware and advanced programming techniques for interrupts.Learning Embedded System Programming can be a challenge. Since it's a relatively complex field, there's no actual gold standard yet for how things are practiced, or taught, which can frustrate people who are just trying to learn new things and couldn't connect the dots. This is the motivation behind creating this course to help engineers and students learn different aspects of embedded systems by providing high-quality advanced lectures at a relatively low price. "
     },
 
     {
@@ -32,8 +32,8 @@
         "rating": { "number": 4.8 },
         "total_enrolled": 508,
         "title": "Computer Architechture",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB6XX57e66e_QIeDswXFQYe8h_zzNjhtiVAA&usqp=CAU",
+        "details": "Hardware Architecture is a first dive into understanding embedded architectures and writing software to manipulate this hardware. You will gain experience writing low-level firmware to directly interface hardware with highly efficient, readable and portable design practices. We will now transition from the Host Linux Machine where we built and ran code in a simulated environment to an Integrated Development Environment where you will build and install code directly on your ARM Cortex-M4 Microcontroller. Course assignments include writing firmware to interact and configure both the underlying ARM architecture and the MSP432 microcontroller platform. The course concludes with a project where you will develop a circular buffer data structure."
     },
 
     {
@@ -41,8 +41,8 @@
         "rating": { "number": 4.6},
         "total_enrolled": 1108,
         "title": "Computer Networking",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://bournetocode.com/projects/GCSE_Computing_Fundamentals/pages/img/computer-network.jpg",
+        "details": "In this 2-hours guided project, you will identify different components such as end devices, intermediary devices, and connection media and simulate network topologies in the Packet Tracer, manage Cisco network devices using telnet, SSH, and Console connections, and secure access to Cisco devices using passwords and password encryption services.By the end of this project, you will be able to use the Packet Tracer to create network topologies that are like the one you’re seeing on the screen, connect to network devices using telnet, SSH, and Console, and manage basic security settings on Cisco devices. This project is one of a kind because it teaches foundational computer network skills to learners from a variety of experience levels using entirely simulated experience. In this project, learners will acquire what they need in simulation environments as if they were working on real devices."
     },
 
     {
@@ -50,8 +50,8 @@
         "rating": { "number": 4.8},
         "total_enrolled": 2480,
         "title": "Web Programming",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+        "details": "In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user."
     }
     
 
