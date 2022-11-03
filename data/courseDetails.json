@@ -1,7 +1,7 @@
 [
 
     {
-        "course_id": "01",
+        "id": "01",
         "rating": { "number": 3.5 },
         "total_enrolled": 308,
         "title": "Data Structure",
@@ -10,7 +10,7 @@
     },
 
     {
-        "course_id": "02",
+        "id": "02",
         "rating": { "number": 4.5 },
         "total_enrolled": 708,
         "title": "Algorithms",
@@ -19,7 +19,7 @@
     },
 
     {
-        "course_id": "03",
+        "id": "03",
         "rating": { "number": 3 },
         "total_enrolled": 400,
         "title": "Micro Controllers",
@@ -28,7 +28,7 @@
     },
 
     {
-        "course_id": "04",
+        "id": "04",
         "rating": { "number": 4.8 },
         "total_enrolled": 508,
         "title": "Computer Architechture",
@@ -37,7 +37,7 @@
     },
 
     {
-        "course_id": "05",
+        "id": "05",
         "rating": { "number": 4.6},
         "total_enrolled": 1108,
         "title": "Computer Networking",
@@ -46,7 +46,7 @@
     },
 
     {
-        "course_id": "06",
+        "id": "06",
         "rating": { "number": 4.8},
         "total_enrolled": 2480,
         "title": "Web Programming",
