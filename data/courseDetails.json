@@ -3,7 +3,7 @@
     {
         "id": "01",
         "rating": { "number": 3.5 },
-        "total_enrolled": 308,
+        "total_enrolled": 385,
         "title": "Data Structure",
         "image_url": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
         "details": "A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this online course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures."
@@ -12,7 +12,7 @@
     {
         "id": "02",
         "rating": { "number": 4.5 },
-        "total_enrolled": 708,
+        "total_enrolled": 748,
         "title": "Algorithms",
         "image_url": "https://www.investopedia.com/thmb/s56ubR5UguDpmw4xitrCznhYbp4=/735x0/algorithm-8507b849b8ee48e5887fda56916dd037.png",
         "details": "Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth.  This specialization is an introduction to algorithms for learners with at least a little programming experience.  The specialization is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details.  After completing this specialization, you will be well-positioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists."
@@ -21,7 +21,7 @@
     {
         "id": "03",
         "rating": { "number": 3 },
-        "total_enrolled": 400,
+        "total_enrolled": 450,
         "title": "Micro Controllers",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcYA-fR7N-oMAj5wxeH9du6rML9aEQQgClg&usqp=CAU",
         "details": "In this course, learn about Microcontroller hardware and advanced programming techniques for interrupts.Learning Embedded System Programming can be a challenge. Since it's a relatively complex field, there's no actual gold standard yet for how things are practiced, or taught, which can frustrate people who are just trying to learn new things and couldn't connect the dots. This is the motivation behind creating this course to help engineers and students learn different aspects of embedded systems by providing high-quality advanced lectures at a relatively low price. "
